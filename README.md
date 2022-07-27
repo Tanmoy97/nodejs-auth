@@ -4,7 +4,7 @@ A complete authentication app with login, logout, register, forget password, ema
 
 
 ## Hosted Link:
- https://fathomless-bastion-74457.herokuapp.com/
+ https://nodejsauth-app.herokuapp.com/
  
  
  ![Screenshot (868)](https://user-images.githubusercontent.com/53449205/175783578-58343abe-2aa2-4e1b-865f-94de1bf85bf3.png)
